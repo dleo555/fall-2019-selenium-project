@@ -1,6 +1,6 @@
 package com.cybertek.tests.b_hw_practice;
 
-import utilities.WebDriverFactory;
+import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
