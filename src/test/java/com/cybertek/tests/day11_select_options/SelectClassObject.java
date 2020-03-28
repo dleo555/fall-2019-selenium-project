@@ -1,6 +1,6 @@
 package com.cybertek.tests.day11_select_options;
 
-import com.cybertek.tests.utilities.WebDriverFactory;
+import utilities.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 

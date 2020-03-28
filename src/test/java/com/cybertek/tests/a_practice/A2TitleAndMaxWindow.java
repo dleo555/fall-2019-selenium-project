@@ -1,6 +1,6 @@
 package com.cybertek.tests.a_practice;
 
-import com.cybertek.tests.utilities.WebDriverFactory;
+import utilities.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
 
 public class A2TitleAndMaxWindow {

@@ -2,8 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac2fd431-df83-495d-a0e1-a036c3375654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day13/day13class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A10LocatorByAbsoluteXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A10LocatorByAbsoluteXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A11LocatorByRelativeXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A11LocatorByRelativeXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A12LocatorByCSS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A12LocatorByCSS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A1BasicNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A1BasicNavigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A2TitleAndMaxWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A2TitleAndMaxWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A3CloseVsQuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A3CloseVsQuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A4LocatorById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A4LocatorById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A5LocatorByClassName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A5LocatorByClassName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A6LocatorByTagName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A6LocatorByTagName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A7LocatorByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A7LocatorByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A8LocatorByLinkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A8LocatorByLinkText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/A9LocatorByPartialLinkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A9LocatorByPartialLinkText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/B1Checkboxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/B1Checkboxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/B2RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/B2RadioButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/a_practice/B3Dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/B3Dropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/b_hw_practice/locatorsHW/AmazonTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/AmazonTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/b_hw_practice/locatorsHW/EtsySearchtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/EtsySearchtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/b_hw_practice/locatorsHW/GoogleResultsTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/GoogleResultsTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/b_hw_practice/locatorsHW/VytrackTitleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/VytrackTitleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/b_hw_practice/locatorsHW/WikipediaURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/WikipediaURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01/FirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01/Navigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VerifyTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01/VerifyTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/VerifyURLOfPracticeWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01/VerifyURLOfPracticeWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01/task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/utilities/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_locators2/FakerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day03_locators2/FakerPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_locators2/VerifyLogim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day03_locators2/VerifyLogim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_locators2/getAtributeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day03_locators2/getAtributeValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day04/ClickVsSubmit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day04/ClickVsSubmit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day04/PracticeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day04/PracticeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day04/XpathPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day04/XpathPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day04/textMethodOfXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day04/textMethodOfXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day05/ClassNameExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day05/ClassNameExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day06/CSSExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day06/CSSExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day09_testing_intro/BeforeAndAfterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testing_intro/BeforeAndAfterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day09_testing_intro/FirstTestNGTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testing_intro/FirstTestNGTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day09_testing_intro/testNGAssertionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testing_intro/testNGAssertionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day10_WebElement/RadioButtonsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_WebElement/RadioButtonsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_select_options/SelectClassObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_options/SelectClassObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +98,11 @@
   </component>
   <component name="RunManager" selected="Application.B3Dropdown">
     <configuration name="B1Checkboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_practice.B1Checkboxes" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.a_practice.B1Checkboxes" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.a_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="B2RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_practice.B2RadioButtons" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.a_practice.B2RadioButtons" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.a_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +124,11 @@
       </method>
     </configuration>
     <configuration name="B3Dropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a_practice.B3Dropdown" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.a_practice.B3Dropdown" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a_practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.a_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +140,12 @@
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_testing_intro.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day09_testing_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="day09_testing_intro" />
-      <option name="MAIN_CLASS_NAME" value="day09_testing_intro.BeforeAndAfterTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testing_intro.BeforeAndAfterTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -115,12 +157,12 @@
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_WebElement.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day10_WebElement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="day10_WebElement" />
-      <option name="MAIN_CLASS_NAME" value="day10_WebElement.RadioButtonsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day10_WebElement.RadioButtonsTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />

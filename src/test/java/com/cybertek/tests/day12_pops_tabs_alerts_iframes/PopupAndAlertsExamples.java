@@ -1,6 +1,6 @@
 package com.cybertek.tests.day12_pops_tabs_alerts_iframes;
 
-import com.cybertek.tests.utilities.WebDriverFactory;
+import utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeMethod;
