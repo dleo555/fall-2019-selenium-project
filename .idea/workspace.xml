@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac2fd431-df83-495d-a0e1-a036c3375654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/JavaScriptExecutorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_pops_tabs_alerts_iframes/TabsAndWindowsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_day02_navigation_locators/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_02_navigation_locators/FirstClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_day02_navigation_locators/Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_02_navigation_locators/Navigation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_day02_navigation_locators/VerifyTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_02_navigation_locators/VerifyTitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_day02_navigation_locators/VerifyURLOfPracticeWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_02_navigation_locators/VerifyURLOfPracticeWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_day02_navigation_locators/task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day01_02_navigation_locators/task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day05/ClassNameExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day05_xpath2/ClassNameExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day06/CSSExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day06_07_08_css_review1_2/CSSExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testing_intro/BeforeAndAfterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testNG_intro/BeforeAndAfterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testing_intro/FirstTestNGTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testNG_intro/FirstTestNGTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testing_intro/testNGAssertionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day09_testNG_intro/testNGAssertionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_WebElement/RadioButtonsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_WebElement/RadioButtonsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_options/SelectClassObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/SelectClassObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_WebElement/RadioButtonsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_WebElement/RadioButtonsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +38,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1YX3g6yIgwaN0fJNu1gItwBDAtm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -66,17 +67,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BeforeAndAfterTest">
-    <configuration name="BeforeAndAfterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.RadioButtonsTest">
+    <configuration name="PopupAndAlertsExamples" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day09_testNG_intro.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day12_pops_tabs_alerts_iframes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testNG_intro" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testNG_intro.BeforeAndAfterTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_pops_tabs_alerts_iframes" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_pops_tabs_alerts_iframes.PopupAndAlertsExamples" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -84,16 +85,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTestNGTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PopupAndAlertsExamples.htmlPopup" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day09_testNG_intro.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day12_pops_tabs_alerts_iframes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testNG_intro" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testNG_intro.FirstTestNGTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day12_pops_tabs_alerts_iframes" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day12_pops_tabs_alerts_iframes.PopupAndAlertsExamples" />
+      <option name="METHOD_NAME" value="htmlPopup" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButtonsTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day10_WebElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day10_WebElement" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day10_WebElement.RadioButtonsTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -101,53 +120,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testNGAssertionsTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioButtonsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day09_testNG_intro.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day10_WebElement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testNG_intro" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testNG_intro.testNGAssertionsTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day10_WebElement" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day10_WebElement.RadioButtonsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButtonsTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day10_WebElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day10_WebElement" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day10_WebElement.RadioButtonsTest" />
       <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testNGAssertionsTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day09_testNG_intro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testNG_intro" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testNG_intro.testNGAssertionsTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testNGAssertionsTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day09_testNG_intro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day09_testNG_intro" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day09_testNG_intro.testNGAssertionsTest" />
-      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.BeforeAndAfterTest" />
-        <item itemvalue="TestNG.testNGAssertionsTest.test4" />
-        <item itemvalue="TestNG.testNGAssertionsTest.test2" />
-        <item itemvalue="TestNG.testNGAssertionsTest.test1" />
-        <item itemvalue="TestNG.FirstTestNGTest" />
+        <item itemvalue="TestNG.RadioButtonsTest" />
+        <item itemvalue="TestNG.RadioButtonsTest (1)" />
+        <item itemvalue="TestNG.PopupAndAlertsExamples" />
+        <item itemvalue="TestNG.PopupAndAlertsExamples.htmlPopup" />
+        <item itemvalue="TestNG.RadioButtonsTest.test1" />
       </list>
     </recent_temporary>
   </component>
