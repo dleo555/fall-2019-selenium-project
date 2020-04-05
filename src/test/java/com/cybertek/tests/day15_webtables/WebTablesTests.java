@@ -14,26 +14,28 @@ import java.util.List;
 public class WebTablesTests extends TestBase {
 
     @BeforeMethod
-    public void setUpTest(){
+    public void setUpTest() {
         String url = ConfigurationReader.getProperty("url");
         driver.get(url);
         driver.findElement(By.linkText("Sortable Data Tables")).click();
+
     }
 
+    // GET WHOLE TABLE
     @Test
-    public void printTable(){
+    public void printTable() {
         WebElement myTable = driver.findElement(By.id("table1"));
         System.out.println(myTable.getText());
     }
 
+    // GET ALL HEADERS
     @Test
-    public void getHeaders(){
-
-        //get all headers in a single element
+    public void getHeaders() {
+        // get all headers in a single element
         WebElement header = driver.findElement(By.tagName("thead"));
         System.out.println(header.getText());
 
-        //get all headers in a list
+        // get all headers in a list
         List<WebElement> headers = driver.findElements(By.xpath("//table[@id='table1']//th"));
         System.out.println(headers.size());
         // use BrowserUtils to get the list of headers as text and print
@@ -41,6 +43,7 @@ public class WebTablesTests extends TestBase {
 
     }
 
+    // GET table size
     @Test
     public void getTableSize() {
         // get number of cols
@@ -56,6 +59,7 @@ public class WebTablesTests extends TestBase {
         System.out.println("Number of row without header: " + rowsWithOutHeader.size());
 
     }
+
     // GET SINGLE ROW BY INDEX
     @Test
     public void getSingleRowByIndex() {
@@ -137,5 +141,4 @@ public class WebTablesTests extends TestBase {
         String xpath = "/table[@id='table1']//td[.='" + value + "']/../td[" + columnIdx + "]";
         return xpath;
     }
-
 }
