@@ -71,4 +71,11 @@ public class Driver {
         return driver;
 
     }
+
+    public static void closeDriver(){
+        // close the driver
+        driver.quit();
+        // then make the object null value
+        driver = null;
+    }
 }
