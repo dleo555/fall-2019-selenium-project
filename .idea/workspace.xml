@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac2fd431-df83-495d-a0e1-a036c3375654" name="Default Changelist" comment="" />
+    <list default="true" id="ac2fd431-df83-495d-a0e1-a036c3375654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/HW2016_Olympics/DefaultSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A11LocatorByRelativeXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A11LocatorByRelativeXpath.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,35 +60,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.WebTablesTests">
-    <configuration name="RadioButtonsTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DefaultSortTest.sortTest2">
+    <configuration name="A11LocatorByRelativeXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.a_practice.A11LocatorByRelativeXpath" />
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day10_WebElement.*" />
+          <option name="PATTERN" value="com.cybertek.tests.a_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day10_WebElement" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day10_WebElement.RadioButtonsTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultSortTest.sortTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics.DefaultSortTest" />
+      <option name="METHOD_NAME" value="sortTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioButtonsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DefaultSortTest.sortTest2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day10_WebElement.*" />
+          <option name="PATTERN" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day10_WebElement" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day10_WebElement.RadioButtonsTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics.DefaultSortTest" />
+      <option name="METHOD_NAME" value="sortTest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -102,24 +121,6 @@
       <option name="PACKAGE_NAME" value="com.cybertek.tests.day15_webtables" />
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day15_webtables.WebTablesTests" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebTablesTests.getHeaders" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day15_webtables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day15_webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day15_webtables.WebTablesTests" />
-      <option name="METHOD_NAME" value="getHeaders" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DefaultSortTest.sortTest2" />
+        <item itemvalue="TestNG.DefaultSortTest.sortTest" />
+        <item itemvalue="Application.A11LocatorByRelativeXpath" />
         <item itemvalue="TestNG.WebTablesTests" />
         <item itemvalue="TestNG.WebTablesTests.printTable" />
-        <item itemvalue="TestNG.WebTablesTests.getHeaders" />
-        <item itemvalue="TestNG.RadioButtonsTest" />
-        <item itemvalue="TestNG.RadioButtonsTest (1)" />
       </list>
     </recent_temporary>
   </component>

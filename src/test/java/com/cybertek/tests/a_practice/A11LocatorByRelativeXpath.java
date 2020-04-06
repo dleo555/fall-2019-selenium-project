@@ -15,6 +15,6 @@ public class A11LocatorByRelativeXpath {
         System.out.println("h1 text: " + element.getText());
 
 
-        driver.close();
+       // driver.close();
     }
 }
