@@ -2,7 +2,6 @@ package com.cybertek.tests.b_hw_practice.HW2016_Olympics;
 
 import com.cybertek.base.TestBase;
 import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;

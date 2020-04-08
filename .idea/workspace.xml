@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac2fd431-df83-495d-a0e1-a036c3375654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/HW2016_Olympics/DefaultSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_page_object_model/NegativeLoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day16_page_object_model/PositiveLoginTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A11LocatorByRelativeXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/a_practice/A11LocatorByRelativeXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/HW2016_Olympics/DefaultSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/b_hw_practice/HW2016_Olympics/DefaultSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/b_hw_practice/HW2016_Olympics/DefaultSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/b_hw_practice/HW2016_Olympics/DefaultSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ConfigurationReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ConfigurationReader.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +44,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -60,31 +66,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DefaultSortTest.sortTest2">
-    <configuration name="A11LocatorByRelativeXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.a_practice.A11LocatorByRelativeXpath" />
+  <component name="RunManager" selected="TestNG.PositiveLoginTests">
+    <configuration name="NegativeLoginTests.wrongPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.a_practice.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day16_page_object_model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DefaultSortTest.sortTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics.DefaultSortTest" />
-      <option name="METHOD_NAME" value="sortTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_page_object_model" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_page_object_model.NegativeLoginTests" />
+      <option name="METHOD_NAME" value="wrongPasswordTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -92,34 +85,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultSortTest.sortTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PositiveLoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day16_page_object_model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.b_hw_practice.HW2016_Olympics.DefaultSortTest" />
-      <option name="METHOD_NAME" value="sortTest2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebTablesTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day15_webtables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day15_webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day15_webtables.WebTablesTests" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_page_object_model" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_page_object_model.PositiveLoginTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -127,17 +102,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTablesTests.printTable" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PositiveLoginTests.loginAsDriver" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day15_webtables.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day16_page_object_model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.day15_webtables" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day15_webtables.WebTablesTests" />
-      <option name="METHOD_NAME" value="printTable" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_page_object_model" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_page_object_model.PositiveLoginTests" />
+      <option name="METHOD_NAME" value="loginAsDriver" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveLoginTests.loginAsSalesManager" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day16_page_object_model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_page_object_model" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_page_object_model.PositiveLoginTests" />
+      <option name="METHOD_NAME" value="loginAsSalesManager" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveLoginTests.loginAsStoreManager" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day16_page_object_model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day16_page_object_model" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day16_page_object_model.PositiveLoginTests" />
+      <option name="METHOD_NAME" value="loginAsStoreManager" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -147,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DefaultSortTest.sortTest2" />
-        <item itemvalue="TestNG.DefaultSortTest.sortTest" />
-        <item itemvalue="Application.A11LocatorByRelativeXpath" />
-        <item itemvalue="TestNG.WebTablesTests" />
-        <item itemvalue="TestNG.WebTablesTests.printTable" />
+        <item itemvalue="TestNG.PositiveLoginTests" />
+        <item itemvalue="TestNG.PositiveLoginTests.loginAsStoreManager" />
+        <item itemvalue="TestNG.PositiveLoginTests.loginAsSalesManager" />
+        <item itemvalue="TestNG.PositiveLoginTests.loginAsDriver" />
+        <item itemvalue="TestNG.NegativeLoginTests.wrongPasswordTest" />
       </list>
     </recent_temporary>
   </component>
