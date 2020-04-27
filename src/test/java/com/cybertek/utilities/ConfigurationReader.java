@@ -10,9 +10,8 @@ public class ConfigurationReader {
 
     static {
 
-
         try {
-            // reads file in java. we need to pass the path of the file
+            // reads file in java. we neeed to pass the path of the file
             FileInputStream fileInputStream = new FileInputStream("configuration.properties");
             // load contents of the file the properties object.
             properties.load(fileInputStream);
